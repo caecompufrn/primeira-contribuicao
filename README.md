@@ -79,10 +79,10 @@ substituindo `<add-seu-nome>` pelo nome do Branch que você criou anteriormente.
 
 Se você for para o seu repositório no GitHub, verá um botão `Compare & pull request`. Clique nesse botão.
 
-<!-- <img style="float: right;" src="../assets/compare-and-pull.png" alt="Crie um Pull Request" /> -->
+<img style="float: right;" src="./assets/compare-e-pull.png" alt="Crie um Pull Request" />
 
 Agora envie um Pull Request.
 
-<!-- <img style="float: right;" src="../assets/submit-pull-request.png" alt="Envie o Pull Request" /> -->
+<img style="float: right;" src="./assets/submit-pull-request.png" alt="Envie o Pull Request" />
 
 Logo estarei mesclando ('mergeando') as suas mudanças no Branch principal (master) deste projeto. Você receberá um e-mail de notificação quando as alterações forem mescladas.
