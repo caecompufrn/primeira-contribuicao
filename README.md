@@ -4,7 +4,7 @@ Este é o primeiro repositório e projeto do Github do Centro Acadêmico de Enge
 
 Sabemos que alguns podem não ter tido contato ainda com o git ou o github, queremos que você dê o primeiro passo com esse projeto, e para isso vamos ensinar aqui como contribuir com esse projeto *open source*, para isso, siga as instruções a seguir:
 
-#### *Este tutorial é fortemente inspirado neste [repositório]. (https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt_br.md)*
+#### *Este tutorial é fortemente inspirado neste [repositório](https://github.com/firstcontributions/first-contributions/blob/master/translations/README.pt_br.md)*
  
 
 <img align="right" width="300" src="./assets/fork.png" alt="fork deste repositório" />
