@@ -1,20 +1,20 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Sugerir uma ideia para este projeto
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Sua solicitação está relacionada com algum problema? Por favor, descreva.**
+Uma descrição clara e consisa do que o problema é. Ex. Estou frustrado com [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Descreva a solicitação que você gostaria**
+Uma descrição clara e consisa do que você espara que aconteça.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Descreva as alternativas consideradas**
+Uma descrição clara e consisa de qualquer solução ou recurso alternatico considerado.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Contexto adicional**
+Adicione qualquer outro contexto ou screenshot sobre o recurso requisitado aqui
